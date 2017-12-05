@@ -9,6 +9,7 @@
   "author": "Alaa mahmoud",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.13.1",
     "merge-descriptors": "^1.0.1",
     "request": "^2.73.0",
     "yargs": "^4.8.1"
